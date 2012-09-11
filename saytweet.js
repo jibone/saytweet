@@ -45,7 +45,6 @@ program.prompt('Tweet Search Term: ', function(query) {
 				}
 			}
 		});
-		//saytweet();
 	}, 5000);
 });
 
